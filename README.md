@@ -1,4 +1,5 @@
 # TP_Algo
+## Souhaila BERDIJ et Estelle CHARRET
 
 This project includes solutions to various algorithmic problems implemented in C++. Each exercise applies specific data structures and algorithms, including dynamic programming, Kruskal’s algorithm for graphs, and subsequence calculations.
 
